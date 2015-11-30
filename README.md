@@ -1,4 +1,4 @@
-# health
+![image](https://cloud.githubusercontent.com/assets/4623063/11461280/a8b505ce-96b4-11e5-82fe-3a6eeef9983e.png)
 Kaspect-Health is a project to design _The biomedical cloud for hospital gait laboratories_, with hopes of turbocharging the analytics performed on knee, shoulder, and ankle experimental data.
 
 # Inspiration
